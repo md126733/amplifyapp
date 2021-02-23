@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 
-// comment
+// comment v2
 // Import Amplify and Storage
 import Amplify, { Storage } from 'aws-amplify';
 // withAuthenticator is a higher order component that wraps the application with a login page
