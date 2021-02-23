@@ -6,5 +6,11 @@
       "dependsOn": [],
       "customAuth": false
     }
+  },
+  "storage": {
+    "amplifyappbucket": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
